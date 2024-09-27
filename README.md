@@ -31,6 +31,7 @@ To run the application, execute the following command in your terminal or comman
 python todo.py
 
 **Usage**
+
 - Type a task into the entry field.
 - Click "Add Task" to add it to the task list.
 - Select a task and click "Complete Task" to mark it as completed.
