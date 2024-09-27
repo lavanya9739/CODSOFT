@@ -23,13 +23,6 @@ A simple graphical To-Do List application built using Python's `tkinter` library
 2. Ensure you have Python installed.
 3. No additional dependencies are required beyond `tkinter`.
 
-## Running the Application
-
-To run the application, execute the following command in your terminal or command prompt:
-
-```bash
-python todo.py
-
 **Usage**
 
 - Type a task into the entry field.
@@ -37,5 +30,13 @@ python todo.py
 - Select a task and click "Complete Task" to mark it as completed.
 - Select a task and click "Delete Task" to remove it from the list.
 
-
 ![image](https://github.com/user-attachments/assets/dc847bb7-27ae-4750-bf89-c20969928d21)
+
+## Running the Application
+
+To run the application, execute the following command in your terminal or command prompt:
+
+```bash
+python todo.py
+
+
