@@ -35,4 +35,6 @@ python todo.py
 - Click "Add Task" to add it to the task list.
 - Select a task and click "Complete Task" to mark it as completed.
 - Select a task and click "Delete Task" to remove it from the list.
+
+
 ![image](https://github.com/user-attachments/assets/dc847bb7-27ae-4750-bf89-c20969928d21)
